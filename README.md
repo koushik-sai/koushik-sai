@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![LeetCode Stats](https://leetcode-card.vercel.app/leetcode/?username=koushik_8564)
+https://leetcode-card.vercel.app/leetcode/?username=koushik_8564
 
