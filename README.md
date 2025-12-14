@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Koushi Sai
+# Hi there! 👋 I'm Koushik sai
 
 🚀 Passionate **Java Developer** | 🔐 **Cybersecurity Enthusiast** | ⚙️ **DevOps Learner**
 
