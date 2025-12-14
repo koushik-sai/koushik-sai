@@ -108,11 +108,5 @@ I love building **secure, scalable, and data-driven applications** while continu
 
 ---
 
-## 📌 Resume Highlight
-
-> Designed and deployed secure, containerized Java applications with CI/CD pipelines, cloud deployment, monitoring, and dynamic user interfaces.
-
----
-
 ✨ Thanks for visiting my profile!  
 🚀 Always learning, building, and improving with **DevOps, Security, and Modern Development Practices**.
